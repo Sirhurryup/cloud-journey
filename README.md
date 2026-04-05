@@ -30,11 +30,15 @@ Every concept I learn is paired with a build. No shortcuts.
 - Structured projects to reflect problem-solving, not just task completion
 - Next build: **S3 + IAM "Public Access Problem" Lab**
 
-**Featured Builds**
+---
+
+## Featured Builds
 
 This section highlights hands-on projects designed to reflect real-world cloud and security thinking.
 
-**Current/Upcoming Projects**
+---
+
+## Current/Upcoming Projects
 
 - AWS S3 Static Website + Secure Access Controls
 - IAM User, Group, and Policy Design Lab
@@ -44,10 +48,11 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 
 Each build is designed with one goal in mind: 
 
-**To demonstrate how I think through problems, not just how I follow instructions. No AI!**
+## To demonstrate how I think through problems, not just how I follow instructions. No AI!
 
-**How I Approach Every Build**
+---
 
+## How I Approach Every Build**
 Each project in this repository follows a consistent framework: 
 
 **1. Problem**––what needed to be solved
@@ -57,7 +62,9 @@ Each project in this repository follows a consistent framework:
 **5. Lessons learned**––what the project taught me
 **6. What I'd Improvey**––how I'd strengthen it in a real environment
 
-**What This Repository Reflects**
+---
+
+## What This Repository Reflects
 - Consistent execution and weekly progress
 - Hands-on clould builds with increasing complexity
 - Security awareness integrated into the learning
@@ -65,9 +72,11 @@ Each project in this repository follows a consistent framework:
 - A disciplined transition backed by curiosity and follow-through
 
 This is not a collection of completed labs.
-It's a record of how I develop into a cloud professional. 
+It's a record of how I develop into a cloud professional.
 
-**Connect**
+---
+
+## Connect
 - LinkedIn: <https://www.linkedn.com/in/dottington>
 - GitHub <sirhurryup>
 
