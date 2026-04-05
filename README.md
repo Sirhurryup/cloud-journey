@@ -54,12 +54,12 @@ Each build is designed with one goal in mind:
 ## How I Approach Every Build**
 Each project in this repository follows a consistent framework: 
 
-**1. Problem**––what needed to be solved
-**2. Approach**––how I thought through it
-**3. Commands/code**–– what I used to build or troubleshoot
-**4. Screenshots**––visual proof of the work
-**5. Lessons learned**––what the project taught me
-**6. What I'd Improvey**––how I'd strengthen it in a real environment
+- **Problem**––what needed to be solved
+- **Approach**––how I thought through it
+- **Commands/code**–– what I used to build or troubleshoot
+- **Screenshots**––visual proof of the work
+- **Lessons learned**––what the project taught me
+- **What I'd Improvey**––how I'd strengthen it in a real environment
 
 ---
 
