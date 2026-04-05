@@ -60,9 +60,11 @@ Each project in this repository follows a consistent framework:
 - Hands-on clould builds with increasing complexity
 - Security awareness integrated into the learning
 - Clear, professional documentation
-- A disciplined transition backed by curiosity and follow-through  
-This is not a collection of completed labs.  
-It's a record of how I develop into a cloud professional.  
+- A disciplined transition backed by curiosity and follow-through
+   
+This is not a collection of completed labs.   
+It's a record of how I develop into a cloud professional. 
+
 ---
 
 ## Connect
