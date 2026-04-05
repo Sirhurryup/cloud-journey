@@ -19,7 +19,7 @@ This repository is my public proof of that tranistion. Showing how I think, how 
 Every concept I learn is paired with a build. No shortcuts.  
 ---
 
-## Proof of Progress
+## Build Log
 
 **Week 1––Foundations in Motion**
 - Established GitHub and LinkedIn to document work publicly
@@ -33,10 +33,9 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 
 ---
 
-## Current/Upcoming Projects
-
+### Active Build Pipeline
 - AWS S3 Static Website + Secure Access Controls
-- IAM User, Group, and Policy Design Lab
+- IAM User, Group, and Policy Design Lab  
 - EC2 Deployment with Monitoring via CloudWatch
 - Terraform Starter Build for AWS infrastructure
 - Cloud Security Troubleshooting Scenarios
@@ -56,7 +55,7 @@ Each project in this repository follows a consistent framework:
 - **What I'd Improve**––how I'd strengthen it in a real environment
 ---
 
-## What This Repository Reflects
+## What This Work Represents
 - Consistent execution and weekly progress
 - Hands-on clould builds with increasing complexity
 - Security awareness integrated into the learning
@@ -68,9 +67,9 @@ It's a record of how I develop into a cloud professional.
 
 ---
 
-## Connect
-- LinkedIn: <https://www.linkedn.com/in/dottington>
-- GitHub <sirhurryup>
+## Professional Links
+- **LinkedIn:** <https://www.linkedn.com/in/dottington>
+- **GitHub:** <sirhurryup>
 
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time.  
 
