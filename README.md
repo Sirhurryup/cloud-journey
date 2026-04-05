@@ -3,6 +3,15 @@
 and real-world problem solving.
 ---
 
+## Table of Contents
+- [Why Cloud, Why Now](#why-cloud-why-now)
+- [Current Technical Priorities](#current-technical-priorities)
+- [Build Log](#build-log)
+- [Featured Builds](#featured-builds)
+- [How I Approach Every Build](#how-i-approach-every-build)
+- [What This Work Represents](#what-this-work-represents)
+- [Professional Links](#professional-links)
+
 ## Why Cloud, Why Now
 I'm steppting into cloud with intention.   
 Not just to learn tools, but to build systems, solve problems, and create a career with long-term stability and impact. 
