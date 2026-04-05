@@ -11,6 +11,7 @@ and real-world problem solving.
 - [How I Approach Every Build](#how-i-approach-every-build)
 - [What This Work Represents](#what-this-work-represents)
 - [Professional Links](#professional-links)
+---
 
 ## Why Cloud, Why Now
 I'm steppting into cloud with intention.   
