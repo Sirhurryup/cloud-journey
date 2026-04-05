@@ -33,6 +33,7 @@ This section highlights hands-on projects designed to reflect real-world cloud a
 - Cloud Security Troubleshooting Scenarios
 
 Each build is designed with one goal in mind: 
+
 **To demonstrate how I think through problems, not just how I follow instructions. No AI!**
 
 **How I Approach Every Build**
