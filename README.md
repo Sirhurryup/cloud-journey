@@ -4,14 +4,14 @@
 
 ---
 
-**Why Cloud, Why Now**
+##Why Cloud, Why Now
 
 I'm steppting into cloud with intention. 
 Not just to learn tools, but to build systems, solve problems, and create a career with long-term stability and impact. 
 
 This repository is my public proof of that tranistion. Showing how I think, how I build, and how I improve over time. 
 
-**Current Technical Priorities**
+##Current Technical Priorities 
 - AWS core services: IAM, S3, EC2, CloudWatch
 - Infrastructure as Code with Terraform
 - Cloud security fundamentals and access control
