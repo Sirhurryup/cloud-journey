@@ -1,5 +1,6 @@
 # Cloud Infrastructure Proof Log   
-**Documenting my transition into cloud through hands-on builds, disciplined learning, and real-world problem solving.**
+**Documenting my transition into cloud through hands-on builds, disciplined learning,   
+and real-world problem solving.**
 ---
 
 ## Why Cloud, Why Now
@@ -63,7 +64,8 @@ Each project in this repository follows a consistent framework:
 - A disciplined transition backed by curiosity and follow-through
    
 This is not a collection of completed labs.   
-It's a record of how I develop into a cloud professional. 
+It's a record of how I develop into a cloud professional.
+
 ---
 
 ## Connect
@@ -71,6 +73,7 @@ It's a record of how I develop into a cloud professional.
 - GitHub <sirhurryup>
 
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time.  
+
 **No fluff. Just proof, progress, and execution.**
 
 ---
