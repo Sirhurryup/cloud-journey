@@ -4,21 +4,25 @@
 
 ---
 
-##Why Cloud, Why Now
+## Why Cloud, Why Now
 
 I'm steppting into cloud with intention. 
 Not just to learn tools, but to build systems, solve problems, and create a career with long-term stability and impact. 
 
-This repository is my public proof of that tranistion. Showing how I think, how I build, and how I improve over time. 
+This repository is my public proof of that tranistion. Showing how I think, how I build, and how I improve over time.
 
-##Current Technical Priorities 
+---
+
+## Current Technical Priorities 
 - AWS core services: IAM, S3, EC2, CloudWatch
 - Infrastructure as Code with Terraform
 - Cloud security fundamentals and access control
 - Clean, structured documentation that reflects real-world engineering practices
-Every concept I learn is paired with a build. No shortcuts. 
+Every concept I learn is paired with a build. No shortcuts.
 
-**Proof of Progress**
+---
+
+## Proof of Progress
 
 **Week 1––Foundations in Motion**
 - Established GitHub and LinkedIn to document work publicly
