@@ -60,4 +60,5 @@ Each project in this repository follows a consistent framework:
 - GitHub <YOUR LINK>
 
 If you're hiring for an entry-level or junior cloud/infrastructure/security role, this repository is my way of showing you how I learn, build, and improve in real-time. 
+
 **No fluff. Just proof, progress, and execution.**
