@@ -64,7 +64,6 @@ Each project in this repository follows a consistent framework:
    
 This is not a collection of completed labs.   
 It's a record of how I develop into a cloud professional. 
-
 ---
 
 ## Connect
