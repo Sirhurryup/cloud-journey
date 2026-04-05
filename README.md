@@ -21,9 +21,11 @@ Every concept I learn is paired with a build. No shortcuts.
 - Next build: **S3 + IAM "Public Access Problem" Lab**
 
 **Featured Builds**
+
 This section highlights hands-on projects designed to reflect real-world cloud and security thinking.
 
 **Current/Upcoming Projects**
+
 - AWS S3 Static Website + Secure Access Controls
 - IAM User, Group, and Policy Design Lab
 - EC2 Deployment with Monitoring via CloudWatch
@@ -34,7 +36,9 @@ Each build is designed with one goal in mind:
 **To demonstrate how I think through problems, not just how I follow instructions. No AI!**
 
 **How I Approach Every Build**
+
 Each project in this repository follows a consistent framework: 
+
 **1. Problem**––what needed to be solved
 **2. Approach**––how I thought through it
 **3. Commands/code**–– what I used to build or troubleshoot
