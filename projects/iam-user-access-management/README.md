@@ -7,9 +7,9 @@ Rather than creating users in isolation, I focused on structuring access through
 ---
 ## What I Built
 - Created three IAM user groups:
--     Admins
--     Data Scientists
--     Power Users
+    - Admins
+    - Data Scientits
+    - Power Users
 - Attached AWS managed polices to each group based on job function
 - Created individual users and assigned them to groups
 - Enabled console access with secure login setup
